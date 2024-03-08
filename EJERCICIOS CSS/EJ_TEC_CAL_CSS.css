@@ -1,0 +1,68 @@
+/* ejercicio 21 */
+
+* {
+    background-color: cornflowerblue;
+}
+
+/* ejercicio 22 */
+
+.ej-22{
+    color: rgb(180, 184, 67);
+    font-size: 20px;
+}
+/* ejercicio 23 */
+.ej-23{
+    border-radius: 2rem;
+    border: 20px solid aqua;
+    width: 35%;
+    
+}
+/* ejercicio 24 */
+.ej-24 {
+    
+    color:black;
+    text-decoration: none;
+    transition: color 0.5;
+}
+
+.ej-24:hover{
+    color:chartreuse;
+}
+/* ejercicio 25 */
+
+.ej-25{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+
+}
+
+/* ejercicio 26 */
+
+.ej-26{
+    background-color: darkgreen;
+    color: white;
+    padding: 10vh;
+    border:2px solid cyan;
+    cursor:crosshair;
+}
+
+.ej-26:hover{
+    background-color: chartreuse;
+    color:darkcyan;
+    padding:5vh;
+    border: 4px solid cornflowerblue;
+}
+
+/* ejercicio 27 */
+
+.ej-27 {
+    list-style: square;
+}
+.ej-27 li{
+    background-color: blueviolet;
+    width: 11%;
+    border-bottom: 2px solid rgb(110, 99, 99, 2);
+}
