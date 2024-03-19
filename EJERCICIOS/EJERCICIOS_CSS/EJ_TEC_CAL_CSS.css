@@ -87,16 +87,20 @@
 
 /* ejercicio 29 */
 .ej-29{
-    background-color: darkmagenta;
     padding:10px;
-}
-
-.ej-29-p {
-
-    background-color:darkorchid;
-
-}
-.ej-29 input{
     display:flex;
+    flex-direction: column;
+    width: 20%;
+    align-items: center;
+    
 
 }
+
+.ej-29-p, .ej-29, .ej-29 {
+    background-color:darkorchid;    
+}
+.ej-29 input, button{
+   
+    margin:20px;
+}
+
