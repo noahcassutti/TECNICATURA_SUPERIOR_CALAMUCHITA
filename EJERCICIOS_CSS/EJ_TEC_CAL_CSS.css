@@ -66,3 +66,37 @@
     width: 11%;
     border-bottom: 2px solid rgb(110, 99, 99, 2);
 }
+
+/* ejercicio 28 */
+
+.ej-28 ul{
+    display:flex;
+    justify-content: right;
+    padding: 12px solid;
+
+}
+.ej-28 li{
+    margin: 20px;
+    list-style-type: none;
+}
+
+.ej-28 li:hover{
+    background-color: blueviolet;
+    color:aqua
+}
+
+/* ejercicio 29 */
+.ej-29{
+    background-color: darkmagenta;
+    padding:10px;
+}
+
+.ej-29-p {
+
+    background-color:darkorchid;
+
+}
+.ej-29 input{
+    display:flex;
+
+}
